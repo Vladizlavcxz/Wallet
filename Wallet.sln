@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.Api", "Wallet.Api\Wallet.Api.csproj", "{AC113C7A-1078-4062-83A2-69A7BC5AF900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.Core", "Wallet.Core\Wallet.Core.csproj", "{8DF8FC5B-DF2C-432F-ACEB-ACE93AF82F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.Services", "Wallet.Services\Wallet.Services.csproj", "{568251C7-C96E-42C7-BCEA-B2F07C0B8814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.Data", "Wallet.Data\Wallet.Data.csproj", "{2AD9843E-83C6-4B02-A0DB-305FE0008EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC113C7A-1078-4062-83A2-69A7BC5AF900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC113C7A-1078-4062-83A2-69A7BC5AF900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC113C7A-1078-4062-83A2-69A7BC5AF900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC113C7A-1078-4062-83A2-69A7BC5AF900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF8FC5B-DF2C-432F-ACEB-ACE93AF82F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF8FC5B-DF2C-432F-ACEB-ACE93AF82F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF8FC5B-DF2C-432F-ACEB-ACE93AF82F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF8FC5B-DF2C-432F-ACEB-ACE93AF82F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568251C7-C96E-42C7-BCEA-B2F07C0B8814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568251C7-C96E-42C7-BCEA-B2F07C0B8814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568251C7-C96E-42C7-BCEA-B2F07C0B8814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568251C7-C96E-42C7-BCEA-B2F07C0B8814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD9843E-83C6-4B02-A0DB-305FE0008EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD9843E-83C6-4B02-A0DB-305FE0008EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD9843E-83C6-4B02-A0DB-305FE0008EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD9843E-83C6-4B02-A0DB-305FE0008EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CAD6A1-AFE0-46B5-93CD-CE3C7BFF0A7B}
+	EndGlobalSection
+EndGlobal
